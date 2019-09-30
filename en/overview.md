@@ -26,7 +26,7 @@ RVsitebuilder app is identical to [Laravel package](https://laravel.com/docs/mas
 <a name="rvsitebuilder-app-playground"></a>
 ## RVsitebuilder App Playground 
 
-Before starting to build your app, we would like to suggest you to go to [RVsitebuilder app playgound](https://rvwizard.com/). Generate your app online, it provides simple CRUD and file manager allowing you to look at its code, modify and see it in action. 
+Before starting to build your app, we would like to suggest you to go to [RVsitebuilder app playground](https://rvwizard.com/). Generate your app online, it provides simple CRUD and file manager allowing you to look at its code, modify and see it in action. 
 
 Then you can follow [installation](installation.md) to install RVsitebuilder locally and start developing your app.  
 
